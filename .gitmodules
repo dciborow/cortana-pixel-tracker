@@ -1,5 +1,5 @@
-[submodule "java"]
-	path = java
+[submodule "cortana-pixel-tracker-java"]
+	path = cortana-pixel-tracker-java
 	url = https://github.com/dciborow/cortana-pixel-tracker-java.git
 [submodule "cortana-pixel-tracker-docs"]
 	path = cortana-pixel-tracker-docs
